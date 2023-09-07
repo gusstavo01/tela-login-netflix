@@ -10,6 +10,6 @@ Bem-vindo ao meu projeto de clone da tela de login da Netflix! Neste repositóri
 **Layout Flexível:** A utilização de flexbox torna a disposição dos elementos flexível e fácil de ajustar.
 
 ## VISUALIZAÇÃO 
-** https://gusstavo01.github.io/tela-login-netflix/
+* https://gusstavo01.github.io/tela-login-netflix/
 ## Como Usar
 git clone https://github.com/seu-usuario/tela-login-netflix.git
