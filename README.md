@@ -6,7 +6,9 @@ Bem-vindo ao meu projeto de clone da tela de login da Netflix! Neste repositóri
 ## RECURSOS 
 
 **HTML e CSS:** Este projeto utiliza HTML e CSS puro para criar a interface de usuário.
+
 **Responsivo:** A tela de login é responsiva e se adapta a diferentes tamanhos de tela.
+
 **Layout Flexível:** A utilização de flexbox torna a disposição dos elementos flexível e fácil de ajustar.
 
 ## VISUALIZAÇÃO 
